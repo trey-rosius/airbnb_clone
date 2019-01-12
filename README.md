@@ -1,16 +1,18 @@
-# airbnb
+# Airbnb clone Flutter App
+A minor air bnb clone implemented with flutter.
+Cheers
 
-A new Flutter application.
+
+
+
+
+Please Feel Free to download and test the appp, incase of any issues, you know what to do(ISSUE an ISSUE)
+
+![alt text](https://raw.githubusercontent.com/trey-rosius/airbnb_clone/master/assets/images/airbnb.png)
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
